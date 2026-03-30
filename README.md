@@ -12,7 +12,7 @@ This game was developed in Code.org’s Game Lab using JavaScript. It was create
 1. Open the project link:
    https://studio.code.org/projects/gamelab/1b9500fd-4f91-4b46-9249-f55ba0d8559b
 
-2. Click "Run" to start the game.
+2. Click spacebar to start the game.
 
 3. Use the keyboard controls (such as arrow keys, if implemented) to move and interact.
 
